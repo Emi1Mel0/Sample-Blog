@@ -1,0 +1,14 @@
+body {
+    background-color: darkgray;
+    color: aliceblue;
+    text-transform: capitalize;
+  }
+  
+  h1 {
+    text-transform: uppercase;
+    color: rgb(255, 236, 127);
+  }
+  
+  img {
+    width: 100%;
+  }
